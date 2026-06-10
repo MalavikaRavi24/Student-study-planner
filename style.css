@@ -1,0 +1,31 @@
+body{
+    background-color:lightyellow;
+}
+h1{
+    color:blue;
+    font-size:40px;
+
+    border:2px solid black;
+    padding:20px;
+    margin:30px;
+}
+p{
+    color:green
+}
+/* div{
+    display:flex;
+    gap:10px;
+    justify-content: center;
+    align-items:center;
+}  */
+input{
+    width:250px;
+    height:35px;
+    border-radius:10px;
+}
+button{
+    height:40px;
+    border-radius:10px;
+    background-color:lightblue;
+    padding:10px;
+}
